@@ -15,6 +15,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPandey03&show_icons=true&theme=radical&layout=compact)](https://github.com/AdityaPandey03)
 </a>
 
+<p align="center">
+    <a href="https://github.com/AdityaPandey03/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandey03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 
 
 <a href="https://github.com/AdityaPandey03/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaPandey03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
