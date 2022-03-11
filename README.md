@@ -4,12 +4,11 @@
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
- 
 - 🔥 I'm also trying to hone my skills in the field of  **Web Developement**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
+- 💻 All of my projects are available at [https://adicode.live](https://adicode.live)
 - 📫 Drop a mail at **pandey.aditya4272@gmail.com**
+
+### 👀 My Github Stats
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaPandey03&count_private=true&show_icons=true&theme=radical)](https://github.com/AdityaPandey03)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPandey03&show_icons=true&theme=radical&layout=compact)](https://github.com/AdityaPandey03)
@@ -20,8 +19,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaPandey03&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-
 
 <a href="https://github.com/AdityaPandey03/github-readme-activity-graph"><img alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaPandey03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
@@ -39,7 +36,9 @@
 
 
 </div>  
- <br/>  
+
+### Vibing to
+[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs?si=0901a0e7ca2d497b)
  
 ## And...
 - I'm always open to share my Spotify playlist..<br/>
