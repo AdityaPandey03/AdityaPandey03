@@ -1,11 +1,6 @@
 # Hey there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- ## 🙋‍♂️ About Me
 
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 🔥 I'm also trying to hone my skills in the field of  **Web Developement**
-- 💻 All of my projects are available at [https://adicode.live](https://adicode.live)
 - 📫 Drop a mail at **pandey.aditya4272@gmail.com**
 
 ### 👀 My Github Stats
