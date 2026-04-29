@@ -57,3 +57,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPandey03&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wxipoq4fe5lpskhaad58340t1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Currently on Spotify" />
+  </a>
+</p>
