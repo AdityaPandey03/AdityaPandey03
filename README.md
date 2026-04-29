@@ -23,27 +23,13 @@
 
 ---
 
-### Stack
-
-| | |
-|---|---|
-| **Languages** | Python · SQL · JavaScript · TypeScript |
-| **Backend** | Django · Django REST Framework · FastAPI · Node.js · Express |
-| **Frontend** | React · Next.js · Tailwind · Recharts |
-| **Databases** | PostgreSQL · Redis · MongoDB |
-| **Infra & Tools** | Docker · AWS S3 · GitHub Actions · Vercel · Render |
-| **Practice** | A/B testing · ranking & recommendation systems · query & API performance tuning |
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wxipoq4fe5lpskhaad58340t1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Currently on Spotify" />
+  </a>
+</p>
 
 ---
-
-### Selected work
-
-- **Django Multi-Query Consolidator** — utility that bundles multiple Django querysets into a single DB roundtrip; reduced cart and order-placement DB calls by **70%+** in production at Dukaan.
-- **Distributed URL Shortener** — FastAPI + Redis + PostgreSQL service handling **10K+ redirects/sec**, with rate limiting, TTL-based expiration, click analytics, and Docker Compose deployment.
-
----
-
-### GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaPandey03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" height="160" />
@@ -56,12 +42,4 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPandey03&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wxipoq4fe5lpskhaad58340t1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Currently on Spotify" />
-  </a>
 </p>
