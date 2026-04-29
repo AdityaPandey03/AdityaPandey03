@@ -1,15 +1,17 @@
 <h1 align="center">Aditya Pandey</h1>
-<p align="center">Full-stack engineer · TypeScript on both ends</p>
 
 <p align="center">
   <a href="mailto:pandey.aditya4272@gmail.com">
     <img src="https://img.shields.io/badge/Email-pandey.aditya4272@gmail.com-262626?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-pandey-788a39200/">
-    <img src="https://img.shields.io/badge/LinkedIn-aditya--pandey-262626?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/adityapandey2607/">
+    <img src="https://img.shields.io/badge/LinkedIn-adityapandey2607-262626?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AdityaPandey03">
     <img src="https://img.shields.io/badge/GitHub-AdityaPandey03-262626?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/AdityaPandey03/">
+    <img src="https://img.shields.io/badge/LeetCode-AdityaPandey03-262626?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -21,26 +23,23 @@
 
 ---
 
-I build production-grade web products end-to-end — designing schemas, REST APIs, and React dashboards that ship to real users. Comfortable across the stack, most at home with TypeScript on both ends.
-
-**Recent focus**
-
-- Clean REST APIs in Node + MongoDB with TypeScript-first DX
-- Charting-heavy React dashboards (Recharts, real-time data, interactive simulators)
-- AI-assisted developer tooling and prompt-driven workflows
-
-**When I'm offline** — you'll find me on a chessboard at [Lichess](https://lichess.org/@/pandey_adi26).
-
----
-
 ### Stack
 
 | | |
 |---|---|
-| **Languages** | TypeScript · JavaScript · Python |
-| **Frontend** | React · Next.js · Vite · Tailwind · Recharts |
-| **Backend** | Node.js · Express · MongoDB · Mongoose |
-| **Infra** | Docker · GitHub Actions · Vercel · Render |
+| **Languages** | Python · SQL · JavaScript · TypeScript |
+| **Backend** | Django · Django REST Framework · FastAPI · Node.js · Express |
+| **Frontend** | React · Next.js · Tailwind · Recharts |
+| **Databases** | PostgreSQL · Redis · MongoDB |
+| **Infra & Tools** | Docker · AWS S3 · GitHub Actions · Vercel · Render |
+| **Practice** | A/B testing · ranking & recommendation systems · query & API performance tuning |
+
+---
+
+### Selected work
+
+- **Django Multi-Query Consolidator** — utility that bundles multiple Django querysets into a single DB roundtrip; reduced cart and order-placement DB calls by **70%+** in production at Dukaan.
+- **Distributed URL Shortener** — FastAPI + Redis + PostgreSQL service handling **10K+ redirects/sec**, with rate limiting, TTL-based expiration, click analytics, and Docker Compose deployment.
 
 ---
 
